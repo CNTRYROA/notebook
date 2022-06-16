@@ -8,3 +8,7 @@
 111
 
 hahahah
+
+
+## 添加时序图
+![图 1](images/2c2ac15d2945eac91d26f6ba171ea349b859143668b2296e13bd05aabca71316.png)  
