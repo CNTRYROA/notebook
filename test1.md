@@ -12,3 +12,6 @@ hahahah
 
 ## 添加时序图
 ![图 1](images/2c2ac15d2945eac91d26f6ba171ea349b859143668b2296e13bd05aabca71316.png)  
+
+
+![图 1](images/81ce5acdd603d17c66e71f123b00c070aff3fcebebabb430fcff8e1e24da3657.png)  
